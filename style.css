@@ -1,0 +1,53 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #fffafc;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #ffe5ec;
+  padding: 40px 10px;
+  border-bottom: 2px solid #f7cad0;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #d63384;
+}
+
+#contador {
+  margin: 30px 0;
+}
+
+#reloj {
+  font-size: 1.5em;
+  background: #fff0f6;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: 1px solid #f7cad0;
+}
+
+button {
+  background: #d63384;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 8px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ad2d6d;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 15px;
+  background: #f8e1ec;
+  font-size: 0.9em;
+}
